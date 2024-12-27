@@ -1,0 +1,204 @@
+{
+   "perfumes": [
+     {
+       "id": 1,
+       "name": "Chanel N°5",
+       "brand": "Chanel",
+       "description": "A floral-aldehyde fragrance with notes of rose, jasmine, and vanilla.",
+       "price": 135.00,
+       "image": "https://img.lovepik.com/free-png/20211215/lovepik-creative-perfume-png-image_401633970_wh1200.png",
+       "category": "Floral",
+       "stock": 15
+     },
+     {
+       "id": 2,
+       "name": "Black Opium",
+       "brand": "Yves Saint Laurent",
+       "description": "An addictive gourmand vanilla fragrance with coffee and white flowers.",
+       "price": 124.00,
+       "image": "https://loremflickr.com/300/300/cats?lock=3150045673066450",
+       "category": "Oriental",
+       "stock": 8
+     },
+     {
+       "id": 3,
+       "name": "La Vie Est Belle",
+       "brand": "Lancôme",
+       "description": "A sweet iris and vanilla fragrance with praline notes.",
+       "price": 108.00,
+       "image": "https://loremflickr.com/300/300/cats?lock=8676479730357142",
+       "category": "Gourmand",
+       "stock": 12
+     },
+     {
+       "id": 4,
+       "name": "Light Blue",
+       "brand": "Dolce & Gabbana",
+       "description": "A fresh citrus fragrance with apple, cedar, and bellflower.",
+       "price": 98.00,
+       "image": "https://loremflickr.com/300/300/cats?lock=5208784344760255",
+       "category": "Fresh",
+       "stock": 20
+     },
+     {
+       "id": 5,
+       "name": "J'adore",
+       "brand": "Dior",
+       "description": "A luxurious floral bouquet with ylang-ylang and Damascus rose.",
+       "price": 138.00,
+       "image": "https://loremflickr.com/300/300/cats?lock=6892711642519845",
+       "category": "Floral",
+       "stock": 5
+     },
+     {
+       "id": 6,
+       "name": "Good Girl",
+       "brand": "Carolina Herrera",
+       "description": "A sophisticated fragrance with tuberose and cocoa.",
+       "price": 128.00,
+       "image": "https://loremflickr.com/300/300/cats?lock=6520005882550921",
+       "category": "Oriental",
+       "stock": 18
+     },
+     {
+       "id": 7,
+       "name": "Flowerbomb",
+       "brand": "Viktor&Rolf",
+       "description": "An explosive floral fragrance with orchid and patchouli.",
+       "price": 165.00,
+       "image": "https://loremflickr.com/300/300/cats?lock=4222341794855630",
+       "category": "Floral",
+       "stock": 7
+     },
+     {
+       "id": 8,
+       "name": "Acqua di Gio",
+       "brand": "Giorgio Armani",
+       "description": "A fresh aquatic fragrance with marine notes and citrus.",
+       "price": 92.00,
+       "image": "https://loremflickr.com/300/300/cats?lock=7223047682085775",
+       "category": "Fresh",
+       "stock": 25
+     },
+     {
+       "id": 9,
+       "name": "Miss Dior",
+       "brand": "Dior",
+       "description": "A romantic floral fragrance with rose and jasmine.",
+       "price": 142.00,
+       "image": "https://loremflickr.com/300/300/cats?lock=4355278817096664",
+       "category": "Floral",
+       "stock": 10
+     },
+     {
+       "id": 10,
+       "name": "Libre",
+       "brand": "Yves Saint Laurent",
+       "description": "A bold floral fragrance with lavender and orange blossom.",
+       "price": 118.00,
+       "image": "https://loremflickr.com/300/300/cats?lock=2017398174788532",
+       "category": "Floral",
+       "stock": 16
+     },
+     {
+       "id": 11,
+       "name": "Alien",
+       "brand": "Mugler",
+       "description": "A mysterious amber woody fragrance with jasmine sambac.",
+       "price": 155.00,
+       "image": "https://loremflickr.com/300/300/cats?lock=2527662789764595",
+       "category": "Oriental",
+       "stock": 9
+     },
+     {
+       "id": 12,
+       "name": "Si",
+       "brand": "Giorgio Armani",
+       "description": "A modern chypre with blackcurrant nectar and vanilla.",
+       "price": 128.00,
+       "image": "https://loremflickr.com/300/300/cats?lock=1264376296073827",
+       "category": "Chypre",
+       "stock": 14
+     },
+     {
+       "id": 13,
+       "name": "Daisy",
+       "brand": "Marc Jacobs",
+       "description": "A fresh floral fragrance with wild berries and white violet.",
+       "price": 86.00,
+       "image": "https://loremflickr.com/300/300/cats?lock=3309533883748944",
+       "category": "Floral",
+       "stock": 22
+     },
+     {
+       "id": 14,
+       "name": "My Way",
+       "brand": "Giorgio Armani",
+       "description": "A modern floral fragrance with tuberose and vanilla.",
+       "price": 97.00,
+       "image": "https://loremflickr.com/300/300/cats?lock=2170226146967824",
+       "category": "Floral",
+       "stock": 11
+     },
+     {
+       "id": 15,
+       "name": "Pure Poison",
+       "brand": "Dior",
+       "description": "A seductive white floral fragrance with orange blossom.",
+       "price": 132.00,
+       "image": "https://loremflickr.com/300/300/cats?lock=2384269099892181",
+       "category": "Floral",
+       "stock": 6
+     },
+     {
+       "id": 16,
+       "name": "Bright Crystal",
+       "brand": "Versace",
+       "description": "A fresh floral fragrance with yuzu and magnolia.",
+       "price": 88.00,
+       "image": "https://loremflickr.com/300/300/cats?lock=2632395541065927",
+       "category": "Floral",
+       "stock": 19
+     },
+     {
+       "id": 17,
+       "name": "Angel",
+       "brand": "Mugler",
+       "description": "A gourmand fragrance with chocolate and patchouli.",
+       "price": 145.00,
+       "image": "https://loremflickr.com/300/300/cats?lock=2985179845187328",
+       "category": "Oriental",
+       "stock": 13
+     },
+     {
+       "id": 18,
+       "name": "Good Fortune",
+       "brand": "Viktor&Rolf",
+       "description": "A modern floral fragrance with jasmine and vanilla.",
+       "price": 168.00,
+       "image": "https://loremflickr.com/300/300/cats?lock=6838226488957612",
+       "category": "Floral",
+       "stock": 4
+     },
+     {
+       "id": 19,
+       "name": "Olympéa",
+       "brand": "Paco Rabanne",
+       "description": "A oriental vanilla fragrance with salt notes and jasmine.",
+       "price": 112.00,
+       "image": "https://loremflickr.com/300/300/cats?lock=8348558837407256",
+       "category": "Oriental",
+       "stock": 17
+     },
+     {
+       "id": 20,
+       "name": "Mon Paris",
+       "brand": "Yves Saint Laurent",
+       "description": "A fruity floral fragrance with red berries and patchouli.",
+       "price": 126.00,
+       "image": "https://loremflickr.com/300/300/cats?lock=3115354679836855",
+       "category": "Floral",
+       "stock": 21
+     }
+   ]
+ } 
