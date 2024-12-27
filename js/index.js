@@ -1,7 +1,7 @@
 $(document).ready(function() {
     // Fetch featured products from the API
     $.ajax({
-        url: 'http://localhost:3000/perfumes',
+        url: 'https://my-json-server.typicode.com/RaghadSbe/Perfume-store/perfumes',
         method: 'GET',
         success: function(data) {
             // Get first 3 products

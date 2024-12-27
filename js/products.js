@@ -96,7 +96,7 @@ $(document).ready(function () {
    // Function to fetch and display perfumes
    function fetchAndDisplayPerfumes() {
       $.ajax({
-         url: 'http://localhost:3000/perfumes',
+         url: 'https://my-json-server.typicode.com/RaghadSbe/Perfume-store/perfumes',
          method: 'GET',
          success: function (products) {
             displayPerfumes(products);
@@ -146,7 +146,7 @@ $(document).ready(function () {
          fetchAndDisplayPerfumes();
       } else {
          $.ajax({
-            url: 'http://localhost:3000/perfumes',
+            url: 'https://my-json-server.typicode.com/RaghadSbe/Perfume-store/perfumes',
             method: 'GET',
             success: function (products) {
                const filteredPerfumes = products.filter(
